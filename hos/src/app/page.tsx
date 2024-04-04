@@ -36,8 +36,8 @@ export default function Home() {
             buttonClassName={"bg-darker text-white hover:bg-white hover:text-darker hover:transition hover:duration-500"}
             img={banner} buttonName={'Solicite uma demonstração'} imageClassName={''} linkName={"/sobre/contato"}      />
     <Beneficios />
-    <Melhorsistema /> 
     <Solucoes />
+    <Melhorsistema /> 
     <FinanceiroWeb />
     <Painel />
     <Cta />
